@@ -1,0 +1,9 @@
+{
+  "name": "Macbook Air M1",
+  "slug": "mb-a-m1",
+  "category": "Mac",
+  "image": "/images/Mac/mb-a-m1.jpg",
+  "price": 31900,
+  "countInStock": 40,
+  "description": "MacBook Air Heavyweight power in a thin profile, our thinnest and lightest notebook. Today, it's all new, with the Apple M1 chip delivering up to 3.5x faster CPUs, up to 5x faster GPUs, and our most advanced Neural Engine yet."
+}
